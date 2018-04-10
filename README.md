@@ -1,5 +1,5 @@
 # AStarProjectDev
-Coded using Java, using TDD and appropriate OO patterns.
+Coded using Java, using TDD(Test-driven development) and appropriate OO(Object oriented) patterns.
 <h2>A* Algorithm </h2>
 The A* algorithm is a path finding algorithm that calculates the cost to walk from a start of map to the end. The algorithm uses a cost metric, the difficulty that is needed to reach the tile, and a heuristic, in this case the Manhattan distance 
 (|x1 - x2| + |y1 - y2|), to find the cheapest path to traverse the map. The algorithm ensures that tiles are not checked multiple times or that it circles back.
